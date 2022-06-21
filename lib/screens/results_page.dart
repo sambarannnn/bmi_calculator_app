@@ -70,7 +70,7 @@ class ResultsPage extends StatelessWidget {
             ),
           ),
           BottomButton(
-            buttonTitle: 'RECALCULATE YOUR BMI',
+            buttonTitle: 'RECALCULATE',
             onTap: () {
               Navigator.pop(context);
             },
