@@ -1,9 +1,10 @@
 # bmi_calculator_flutter
-
 A Body Mass Index Calculator app built using Flutter.
 
 ## UI
 <img width=600/ src = "https://cdn.dribbble.com/users/1553101/screenshots/4585382/dribbble_post.png?compress=1&resize=800x600&vertical=top">
+
+
 ## Screenshots
 
 Input Screen           |   Result Screen
